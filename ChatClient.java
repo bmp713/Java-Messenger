@@ -1,6 +1,4 @@
 // Brandon Piper
-// cmps109 W05
-// Homework #5
 
 import java.io.*;
 import java.net.*;
@@ -8,7 +6,6 @@ import java.util.*;
 import java.awt.*;
 import java.awt.Font;
 import javax.swing.*;
-
 
 /*
 ChatClient established a connection with the server
