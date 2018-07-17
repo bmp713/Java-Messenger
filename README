@@ -1,6 +1,4 @@
 // Brandon Piper
-// cmps109 W05
-// Homework #5 README
 
 My program runs with 7 different files.
 Here is the organization:
@@ -27,14 +25,6 @@ EXECUTION:
 To run the a chat room, run the ChatServer on
 one console and open as many clients as you want.  
 Each client will pop up a separate GUI frame.  The
-command line args for the ChatClient and ChatServer
-match the assignment specifications.
+command line args for the ChatClient and ChatServer.
 
-NOTE:
-
-The program works fine as longs as you run my client
-and my server.  They will not connect with the sample
-solutions because I used a slightly different format
-for the list of users.  I hope this will not result
-in a significant point reduction.
 
