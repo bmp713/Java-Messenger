@@ -1,6 +1,4 @@
 // Brandon M. Piper
-// cmps109 W05
-// Homework #5
 
 import java.io.*;
 import java.net.*;
